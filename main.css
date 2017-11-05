@@ -4,6 +4,12 @@ body {
 	text-align: justify;
 }
 
+a {
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
 p {
 	text-indent: 1em;
 	margin-top: .25em;
@@ -19,6 +25,10 @@ h1, h2, h3, h4, h5, h6 {
 hr  {
 	width: 50%;
 	text-align: center;
+}
+
+#loading-controls {
+	margin-top: 8pt;
 }
 
 .foot {
