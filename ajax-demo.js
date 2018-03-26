@@ -1,4 +1,4 @@
-$(`#load-chapter2-link`).on(`click`, function () {
+$(`#load-chapter2-btn`).on(`click`, function () {
 	$.ajax({
 		url: `chapter2.html`,
 		success: function (data) {

@@ -6,8 +6,6 @@ body {
 
 a {
 	color: blue;
-	cursor: pointer;
-	text-decoration: underline;
 }
 
 p {
@@ -28,7 +26,7 @@ hr  {
 }
 
 #loading-controls {
-	margin-top: 8pt;
+	margin-top: 1em;
 }
 
 .foot {
